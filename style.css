@@ -5,8 +5,10 @@
   /* Create three equal columns that floats next to each other */
   .column {
     float: left;
-    width: 33.33%;
+    width: 30%;
     padding: 10px;
+    color: #ffffff;
+    font-family: sans-serif;
 }
   
   /* Clear floats after the columns */
